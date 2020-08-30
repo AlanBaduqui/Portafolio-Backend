@@ -1,16 +1,16 @@
-
-
-{
-    "name": "Alan Alexis Baduqui Bueno",
-    "profession" : "Full Stack Developer",
-    "photo": "https://i.ibb.co/6yBSdrR/15731836-595200717357422-9120856987408503470-o.jpg",
-    "about_me": " Soy una entusiasta de las tecnologías, amo hacer desarrollo web y confío en la colaboración entre comunidades para lograr un mejor ecosistema en el ambito de la tecnologia. ",
-    "skills": [
-        "ReactJs",
-        "HTML",
-        "CSS",
-        "MySQL",
-        "FIREBASE",
-        "JavaScript"
-    ]
-}
+[
+    {
+        "name": "Alan Alexis Baduqui Bueno",
+        "profession" : "Full Stack Developer",
+        "photo": "https://i.ibb.co/6yBSdrR/15731836-595200717357422-9120856987408503470-o.jpg",
+        "about_me": " Soy una entusiasta de las tecnologías, amo hacer desarrollo web y confío en la colaboración entre comunidades para lograr un mejor ecosistema en el ambito de la tecnologia. ",
+        "skills": [
+            "ReactJs",
+            "HTML",
+            "CSS",
+            "MySQL",
+            "FIREBASE",
+            "JavaScript"
+        ]
+    }
+]
