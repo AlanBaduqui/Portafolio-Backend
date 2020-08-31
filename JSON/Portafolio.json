@@ -2,12 +2,12 @@
     {
         "name": "Proyecto 1",
         "description": "",
-        "image": "",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png",
         "link": ""
     },
     {
         "name": "Proyecto 2",
-        "description": "",
+        "description": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png",
         "image": "",
         "link": ""
     }
